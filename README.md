@@ -1,9 +1,10 @@
-# COD Modern Warfare ReNeoForged
-将whitefood的moderncod模组移植到1.21.1 NeoForge (侵权请issue联系)<br>
-原作者一直联系不上，只能这么办了...😭
+# COD Modern Warfare OSS
+对whitefood的moderncod MC Mod进行二改
+
+本项目大量使用AI开发
 
 # 许可证
-moderncod-reneoforged [WTFPLv2](LICENSE)
+moderncod-oss [WTFPLv2](LICENSE)
 
 moderncod All Rights Reserved
 
